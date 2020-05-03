@@ -6,5 +6,6 @@ Repository contains modules to download covid-19 data
 
 Installation Steps:
 1. create virtual environment : python -m venv {path_of_virtual_environment}
-2. install packages: pip install -r requirements.txt
-3. run script python {script_name.py}
+2. activate virtual environment
+3. install packages: pip install -r requirements.txt
+4. run script python {script_name.py}
